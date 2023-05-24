@@ -6,7 +6,7 @@
   <link href="https://blog.howarddickens.top/atom.xml" rel="self"/>
   
   <link href="https://blog.howarddickens.top/"/>
-  <updated>2023-05-24T03:58:01.182Z</updated>
+  <updated>2023-05-24T05:49:51.239Z</updated>
   <id>https://blog.howarddickens.top/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用ngc跑resnet 50</title>
+    <link href="https://blog.howarddickens.top/2023/05/24/%E4%BD%BF%E7%94%A8ngc%E8%B7%91resnet-50/"/>
+    <id>https://blog.howarddickens.top/2023/05/24/%E4%BD%BF%E7%94%A8ngc%E8%B7%91resnet-50/</id>
+    <published>2023-05-24T05:49:51.000Z</published>
+    <updated>2023-05-24T05:49:51.239Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>为什么写博客</title>
