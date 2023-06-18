@@ -21,7 +21,7 @@
   <entry>
     <title>为什么写博客</title>
     <url>/2023/05/24/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="一、为什么写博客"><a href="#一、为什么写博客" class="headerlink" title="一、为什么写博客"></a>一、为什么写博客</h2><ol>
+    <content><![CDATA[<h1 id="为什么写博客"><a href="#为什么写博客" class="headerlink" title="为什么写博客"></a>为什么写博客</h1><h2 id="一、为什么写博客"><a href="#一、为什么写博客" class="headerlink" title="一、为什么写博客"></a>一、为什么写博客</h2><ol>
 <li>随着年龄的增长，大脑已经无法满足不断增长记忆的存储需求，需要另外一种方式来辅助记忆（解决记不住的需求）。</li>
 <li>过往的知识点不成体系，需要整理一下，梳理出自己的知识库（解决有效记忆的需求）。</li>
 <li>对新学到的知识进行记录，添加到现有的知识库中（解决新学习的需求）。</li>
@@ -45,6 +45,14 @@
   <entry>
     <title>使用ngc跑resnet 50</title>
     <url>/2023/05/24/%E4%BD%BF%E7%94%A8ngc%E8%B7%91resnet-50/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="使用nvidia-ngc跑resnet-50"><a href="#使用nvidia-ngc跑resnet-50" class="headerlink" title="使用nvidia ngc跑resnet 50"></a>使用nvidia ngc跑resnet 50</h1><h2 id="一、注册ngc"><a href="#一、注册ngc" class="headerlink" title="一、注册ngc"></a>一、注册ngc</h2><h2 id="二、下载tensorlfow镜像"><a href="#二、下载tensorlfow镜像" class="headerlink" title="二、下载tensorlfow镜像"></a>二、下载tensorlfow镜像</h2><h2 id="三、设置数据集"><a href="#三、设置数据集" class="headerlink" title="三、设置数据集"></a>三、设置数据集</h2><h2 id="四、开始跑resnet-50"><a href="#四、开始跑resnet-50" class="headerlink" title="四、开始跑resnet 50"></a>四、开始跑resnet 50</h2>]]></content>
+      <categories>
+        <category>nvidia</category>
+      </categories>
+      <tags>
+        <tag>探索</tag>
+        <tag>linux</tag>
+        <tag>docker</tag>
+      </tags>
   </entry>
 </search>

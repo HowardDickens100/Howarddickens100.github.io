@@ -6,7 +6,7 @@
   <link href="https://blog.howarddickens.top/atom.xml" rel="self"/>
   
   <link href="https://blog.howarddickens.top/"/>
-  <updated>2023-05-24T05:49:51.239Z</updated>
+  <updated>2023-05-24T06:15:53.301Z</updated>
   <id>https://blog.howarddickens.top/</id>
   
   <author>
@@ -21,11 +21,27 @@
     <link href="https://blog.howarddickens.top/2023/05/24/%E4%BD%BF%E7%94%A8ngc%E8%B7%91resnet-50/"/>
     <id>https://blog.howarddickens.top/2023/05/24/%E4%BD%BF%E7%94%A8ngc%E8%B7%91resnet-50/</id>
     <published>2023-05-24T05:49:51.000Z</published>
-    <updated>2023-05-24T05:49:51.239Z</updated>
+    <updated>2023-05-24T06:15:53.301Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用nvidia-ngc跑resnet-50&quot;&gt;&lt;a href=&quot;#使用nvidia-ngc跑resnet-50&quot; class=&quot;headerlink&quot; title=&quot;使用nvidia ngc跑resnet 50&quot;&gt;&lt;/a&gt;使用nvidia ngc跑resnet</summary>
+        
+      
     
     
     
+    <category term="nvidia" scheme="https://blog.howarddickens.top/categories/nvidia/"/>
     
+    
+    <category term="探索" scheme="https://blog.howarddickens.top/tags/%E6%8E%A2%E7%B4%A2/"/>
+    
+    <category term="linux" scheme="https://blog.howarddickens.top/tags/linux/"/>
+    
+    <category term="docker" scheme="https://blog.howarddickens.top/tags/docker/"/>
     
   </entry>
   
@@ -34,14 +50,14 @@
     <link href="https://blog.howarddickens.top/2023/05/24/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/"/>
     <id>https://blog.howarddickens.top/2023/05/24/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%99%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-05-24T03:02:49.000Z</published>
-    <updated>2023-05-24T03:58:01.182Z</updated>
+    <updated>2023-05-24T06:14:57.792Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;一、为什么写博客&quot;&gt;&lt;a href=&quot;#一、为什么写博客&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;为什么写博客&quot;&gt;&lt;a href=&quot;#为什么写博客&quot; class=&quot;headerlink&quot; title=&quot;为什么写博客&quot;&gt;&lt;/a&gt;为什么写博客&lt;/h1&gt;&lt;h2 id=&quot;一、为什么写博客&quot;&gt;&lt;a href=&quot;#一、为什么写博客&quot; class=&quot;headerlink&quot;</summary>
         
       
     
